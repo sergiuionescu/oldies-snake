@@ -1,0 +1,4 @@
+Makefile.win
+*.o
+*.layout
+*private*
